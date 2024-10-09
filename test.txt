@@ -1,6 +1,10 @@
 a1 b1 c2 d2
+<<<<<<< HEAD
 e3 f3 g4 h4
 a1 b1 c2 d2
 a1 b1 c2 d2
 e3 f3 g4 h4
 a1 b1 c2 d2
+=======
+e3 f3 g4 h4
+>>>>>>> parent of 16e23fd (level 3 add line 3)
